@@ -1,5 +1,5 @@
 # expense-tracker
-Build an expense tracker project as a favour for a friend
+Built an expense tracker project as a favor for a friend
 
 ---
 
